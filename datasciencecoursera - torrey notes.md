@@ -137,3 +137,27 @@
 	TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
 	oursera_repository (master)
 ```
+ - similarly, but do a git add -A before hand (adding/updateing all files recursively)
+	 ```
+	 TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
+	oursera_repository (master)
+	$ alias myCommitAll='git add -A && git commit -am "updated notes" && git push o
+	rigin master'
+
+	TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
+	oursera_repository (master)
+	$ myCommitAll
+	[master ee42d0c] updated notes
+	 1 file changed, 1 insertion(+)
+	 create mode 100644 HellowWorld.md
+	Counting objects: 4, done.
+	Delta compression using up to 4 threads.
+	Compressing objects: 100% (2/2), done.
+	Writing objects: 100% (3/3), 368 bytes | 0 bytes/s, done.
+	Total 3 (delta 0), reused 0 (delta 0)
+	To https://torreypjones:jfkdls11@github.com/torreypjones/datasciencecoursera/
+	   82125f3..ee42d0c  master -> master
+
+	TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
+	oursera_repository (master)
+	```
