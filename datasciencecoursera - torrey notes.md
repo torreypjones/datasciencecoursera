@@ -115,7 +115,7 @@
  - use asterisks (*) to create bulleted lists
 
 ## simple alias to commit & push to github repo
-
+ - create an alias 'myCommit' to add a simple comment on the commit and push to remote github repository
 ```
 	TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
 	oursera_repository (master)
