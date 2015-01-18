@@ -94,7 +94,7 @@
 		TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
 		oursera_repository (master)
 		$
-		```
+	```
 
 # Random Notes
 ## conigure github repo to always use same username/password for this remote origin:		
@@ -113,4 +113,4 @@
 ## markdown syntax
 	- pound signs (#) create headers; add more pound signs to add sub-headings
 	- use asterisks (*) to create bulleted lists
-	- something
+	
