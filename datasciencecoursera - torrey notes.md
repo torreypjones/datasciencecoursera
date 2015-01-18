@@ -97,7 +97,8 @@
 	```
 
 # Random Notes
-## conigure github repo to always use same username/password for this remote origin:		
+## conigure github repo
+ -  always use same username/password for this remote origin:		
 ```
 	TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
 	oursera_repository (master)
