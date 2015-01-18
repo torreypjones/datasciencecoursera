@@ -115,7 +115,7 @@
 	- use asterisks (*) to create bulleted lists
 ## simple alias to commit & push to github repo
 
-	```
+```
 	TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
 	oursera_repository (master)
 	$ alias myCommit='git commit -am "updated notes" && git push origin master'
@@ -135,4 +135,4 @@
 
 	TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
 	oursera_repository (master)
-	```
+```
