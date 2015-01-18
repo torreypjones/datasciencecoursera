@@ -30,6 +30,7 @@
  - create local directory to sync with newly created github repository
 	Note: the class video's implied the following would work (but see below for wahat i actually did):
 	- open git bash and run the following:
+	```
 		TJones@BOI-NTB-TJONES ~/
 		mkdir ~/datasciencecoursera
 		TJones@BOI-NTB-TJONES ~/
@@ -40,11 +41,10 @@
 
 		TJones@BOI-NTB-TJONES ~/datasciencecoursera (master)
 		$ git remote add origin https://github.com/torreypjones/datasciencecoursera.git
-
-	
-
-	TJones@BOI-NTB-TJONES ~/datasciencecoursera (master)
+	```
+		
 	what i actually did was:
+	```
 		TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox
 		$ git clone https://github.com/torreypjones/datasciencecoursera datasciencecoursera_repository
 		Cloning into 'datasciencecoursera_repository'...
@@ -94,10 +94,11 @@
 		TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
 		oursera_repository (master)
 		$
-
+		```
 
 # Random Notes
 ## conigure github repo to always use same username/password for this remote origin:		
+	```
 	TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
 	oursera_repository (master)
 	$ git config remote.origin.url https://username:password@github.com/torreyp
@@ -107,7 +108,8 @@
 	oursera_repository (master)
 	$ git push origin master
 	Everything up-to-date
-
+	```
+	
 ## markdown syntax
 	- pound signs (#) create headers; add more pound signs to add sub-headings
 	- use asterisks (*) to create bulleted lists
