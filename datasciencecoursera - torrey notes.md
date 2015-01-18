@@ -113,4 +113,25 @@
 ## markdown syntax
 	- pound signs (#) create headers; add more pound signs to add sub-headings
 	- use asterisks (*) to create bulleted lists
-	
+## simple alias to commit & push to github repo
+	```
+	TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
+	oursera_repository (master)
+	$ alias myCommit='git commit -am "updated notes" && git push origin master'
+
+	TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
+	oursera_repository (master)
+	$ myCommit
+	[master 59f3e23] updated notes
+	 1 file changed, 2 insertions(+), 1 deletion(-)
+	Counting objects: 5, done.
+	Delta compression using up to 4 threads.
+	Compressing objects: 100% (3/3), done.
+	Writing objects: 100% (3/3), 297 bytes | 0 bytes/s, done.
+	Total 3 (delta 2), reused 0 (delta 0)
+	To https://torreypjones:jfkdls11@github.com/torreypjones/datasciencecoursera/
+	   9a90182..59f3e23  master -> master
+
+	TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
+	oursera_repository (master)
+	```
