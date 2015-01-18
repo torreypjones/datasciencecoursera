@@ -39,7 +39,9 @@ https://github.com/torreypjones/datasciencecoursera - Notes:
 		TJones@BOI-NTB-TJONES ~/datasciencecoursera (master)
 		$ git remote add origin https://github.com/torreypjones/datasciencecoursera.git
 
-		TJones@BOI-NTB-TJONES ~/datasciencecoursera (master)
+	
+
+	TJones@BOI-NTB-TJONES ~/datasciencecoursera (master)
 	what i actually did was:
 		TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox
 		$ git clone https://github.com/torreypjones/datasciencecoursera datasciencecoursera_repository
@@ -91,3 +93,19 @@ https://github.com/torreypjones/datasciencecoursera - Notes:
 		oursera_repository (master)
 		$
 
+
+# Random Notes
+## conigure github repo to always use same username/password for this remote origin:		
+	TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
+	oursera_repository (master)
+	$ git config remote.origin.url https://username:password@github.com/torreyp
+	jones/datasciencecoursera/
+
+	TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
+	oursera_repository (master)
+	$ git push origin master
+	Everything up-to-date
+
+## markdown syntax
+	- pound signs (#) create headers; add more pound signs to add sub-headings
+	- use asterisks (*) to create bulleted lists
