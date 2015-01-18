@@ -28,8 +28,8 @@
  - Create GitHub account
  - create GitHub repository (https://github.com/torreypjones/datasciencecoursera)
  - create local directory to sync with newly created github repository
-	Note: the class video's implied the following would work (but see below for wahat i actually did):
-	- open git bash and run the following:
+	- Note: the class video's implied the following would work (but see below for wahat i actually did):
+		- open git bash and run the following:
 	```
 		TJones@BOI-NTB-TJONES ~/
 		mkdir ~/datasciencecoursera
