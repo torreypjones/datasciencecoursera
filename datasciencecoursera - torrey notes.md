@@ -98,7 +98,7 @@
 
 # Random Notes
 ## conigure github repo to always use same username/password for this remote origin:		
-	```
+```
 	TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
 	oursera_repository (master)
 	$ git config remote.origin.url https://username:password@github.com/torreyp
@@ -108,7 +108,7 @@
 	oursera_repository (master)
 	$ git push origin master
 	Everything up-to-date
-	```
+```
 	
 ## markdown syntax
 	- pound signs (#) create headers; add more pound signs to add sub-headings
