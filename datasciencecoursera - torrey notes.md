@@ -114,6 +114,7 @@
 	- pound signs (#) create headers; add more pound signs to add sub-headings
 	- use asterisks (*) to create bulleted lists
 ## simple alias to commit & push to github repo
+
 	```
 	TJones@BOI-NTB-TJONES ~/Google Drive/DataScience/DataScienceToolbox/datasciencec
 	oursera_repository (master)
