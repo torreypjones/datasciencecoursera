@@ -109,11 +109,10 @@
 	oursera_repository (master)
 	$ git push origin master
 	Everything up-to-date
-```
-	
+```	
 ## markdown syntax
-	- pound signs (#) create headers; add more pound signs to add sub-headings
-	- use asterisks (*) to create bulleted lists
+ - pound signs (#) create headers; add more pound signs to add sub-headings
+ - use asterisks (*) to create bulleted lists
 ## simple alias to commit & push to github repo
 
 ```
