@@ -1,9 +1,11 @@
-https://github.com/torreypjones/datasciencecoursera - Notes:
+#Notes for DataScienceToolbox course on coursea
 
+## Assignment Steps
  - Install R (http://cran.r-project.com)
  - Install R Studio (http://rstudio.com)
  - Install git (http://git-scm.com)
 	- open git bash & configure git username / email:
+	```
 	git config user.name "Torrey Jones"
 	git config user.email "torreypjones@gmail.com"
 		TJones@BOI-NTB-TJONES ~
@@ -22,7 +24,7 @@ https://github.com/torreypjones/datasciencecoursera - Notes:
 		rebase.autosquash=true
 		user.name=Torrey Jones
 		user.email=torreypjones@gmail.com
-
+	```
  - Create GitHub account
  - create GitHub repository (https://github.com/torreypjones/datasciencecoursera)
  - create local directory to sync with newly created github repository
